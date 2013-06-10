@@ -15,9 +15,7 @@
    Requires: Boost C++ Libraries >= 1.40.0 (http://www.boost.org/doc/)
 */
 
-#include <cuda_runtime.h>
 #include "Circuit.hpp"
-//#include "CircuitPartitioner.hpp"
 #include "Logging.hpp"
 
 #include <boost/program_options.hpp>
